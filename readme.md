@@ -1,14 +1,10 @@
-## Transactions Tracker
+## Simple JS layout animation using GSAP library
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Example of GSAP library usage for building simple animations
 
 ## Project Specifications
 
 - Create UI for project
-- Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
-- Delete items from DOM
-- Persist to local storage
+- Use GSAP library for animation
 
-<h3><a href="https://starchitect-transactions-tracker.netlify.app/">Demo</a></h3>
+<h3><a href="https://starchitect-gsap-animation.netlify.app/">Demo</a></h3>
